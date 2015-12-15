@@ -1,0 +1,7 @@
+[package]
+name = "ranagram"
+version = "0.1.0"
+authors = ["Rohit Mohta <rmohta.coder@gmail.com>"]
+description = "Experimental Rust language project to get all the anagrams for a given input word."
+
+[dependencies]
